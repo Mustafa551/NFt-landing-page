@@ -1,0 +1,56 @@
+.navbar1 {
+    background-color: #000 !important;
+}
+
+.toggle1 {
+   color: white !important;
+}
+
+.list li a {
+    color: white;
+    margin-left: 20px;
+    font-size: 17px;
+    font-weight: bold;
+    text-align: center;
+    
+}
+.top1 {
+    display: flex;
+    align-items: center;
+
+}
+
+.list {
+    size: 20px;
+}
+
+.top {
+    margin-top: -7px;
+    margin-left: 100px;
+    margin-right: 300px;
+}
+
+.ico {
+    margin-left: -20px;
+    
+}
+
+.size1 {
+    font-size: 22px;
+    margin-left: 17px;
+}
+
+.min {
+    margin-left: 100px !important;
+    background-color: #fff;
+    color: #000 !important;
+    border: 2px solid white ;
+    border-radius: 20px;
+    width: 80px;
+    font-size: 15px !important;
+    font-weight: normal !important;
+    
+}
+.nav-link:hover {
+    color: #fff;
+}
