@@ -121,3 +121,24 @@
     line-height: 1.7em;
     margin-left: 95px;
 }
+.road {
+    color: #fff;
+    width: 30%;
+    
+}
+
+.map {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.work {
+    color: #fff;
+    border: 2px solid gray;
+}
+
+
+.navbar-toggler-icon  {
+    background-image: url(images/menu-toggle-thin.png);
+}
